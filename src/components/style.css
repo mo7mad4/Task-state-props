@@ -1,0 +1,30 @@
+.counters__Style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.counter {
+    padding: 10px;
+}
+
+.onIncrement{
+    font-size: 40px;
+    width: 50px;
+    height: 50px;
+    background-color: chartreuse;
+    border: none;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.onDecrement{
+    font-size: 40px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(177, 29, 3);
+    border: none;
+    border-radius: 5px;
+    margin-left: 15px;
+}
